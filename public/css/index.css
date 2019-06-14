@@ -1,0 +1,38 @@
+
+.list_student{
+    width: 50%;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    color: red;
+    box-shadow: 2px 3px 10px brown;
+}
+.btn-sua, .btn-xoa{
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+}
+.btn-them{
+    width: 20%;
+    margin-left: 80%;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    background-color: #2fa360;
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px #2fa360;
+}
+h3{
+    color: green;
+    /*border-radius: 10px;*/
+    box-shadow: 2px 3px 10px grey;
+    margin-left: 5%;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.modal-content{
+    box-shadow: 2px 3px 40px grey !important;
+}
+table{
+    box-shadow: -11px -1px 20px grey;
+}
